@@ -1,4 +1,4 @@
-# ¡Hola! Soy Isabel Ancco
+# ¡Hola! Soy Isabel Sterling
 
 ## 🚀 Sobre mí
 Soy estudiante de **Ingeniería de Software con Inteligencia Artificial** en SENATI. Me apasiona la tecnología, la innovación y el desarrollo de soluciones que combinen eficiencia administrativa con herramientas digitales modernas.
