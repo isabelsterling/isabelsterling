@@ -1,6 +1,6 @@
 # 💻 Isabel Sterling
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&width=435&lines=Estudiante+de+Ingenier%C3%ADa+de+Software;Segundo%20a%C3%B1o%20de%20la%20carrera%20en%20SENATI;Siempre%20aprendiendo%20nuevas%20tecnolog%C3%ADas)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&width=435&lines=Estudiante+de+Ingenier%C3%ADa+de+Software;Segundo%20a%C3%B1o%20de%20la%20carrera%20en%20SENATI;En%20constante%20aprendizaje;Interesada%20en%20nuevas%20tecnolog%C3%ADas)](https://git.io/typing-svg)
 
 ---
 
